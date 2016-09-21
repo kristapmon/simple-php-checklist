@@ -1,2 +1,2 @@
-# simple-php-checklist
-A simple PHP checklist.
+# Simple PHP Checklist
+A simple PHP checklist and using some JS
